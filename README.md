@@ -1,9 +1,14 @@
 [![MasterHead](https://th.bing.com/th/id/R.a35c6771aea02f3cf2572aeae268ed12?rik=QmnoX0rK9DwA6Q&pid=ImgRaw&r=0)]
 <h1 align="center">Hi 👋, I'm SHAHZAIB MUMTAZ</h1>
 <h3 align="center">A passionate for Cyber Security from Pakistan</h3>
-(img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.a0326afeed77474973c5aef59be36b35?rik=S1Ztao8vmHl1nw&pid=ImgRaw&r=0")
+
+<img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahzaib-mumtaz&label=Profile%20views&color=0e75b6&style=flat" alt="shahzaib-mumtaz" /> </p>
+
+- 🌱 I’m currently learning **Object-Oriented Programming in C++**
+
+- 📫 How to reach me **shahzaibmumtaz49@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,3 +18,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahzaib-mumtaz&show_icons=true&locale=en" alt="shahzaib-mumtaz" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahzaib-mumtaz&" alt="shahzaib-mumtaz" /></p>
