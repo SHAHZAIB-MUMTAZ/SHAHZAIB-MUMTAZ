@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shahzaib mumtaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahzaib mumtaz" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/shahzaib mumtaz](https://www.linkedin.com/in/shahzaib-mumtaz-276b0b296)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahzaib mumtaz" height="30" width="40" /></a>
 <a href="https://instagram.com/shahzaib_.19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahzaib_.19" height="30" width="40" /></a>
 </p>
 
