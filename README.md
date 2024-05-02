@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahzaib-mumtaz&label=Profile%20views&color=0e75b6&style=flat" alt="shahzaib-mumtaz" /> </p>
 
-- 🌱 I’m currently learning **Object-Oriented Programming in C++**
+- 🌱 I’m currently learning **Object-Oriented Programming in C++ & Java**
 
 - 📫 How to reach me **shahzaibmumtaz49@gmail.com**
 
